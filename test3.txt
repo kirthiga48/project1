@@ -1,2 +1,0 @@
-this is a project file
-this is a githup file
